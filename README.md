@@ -60,7 +60,16 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+![GitHub Logo](./images/output1.png)
+![GitHub Logo](./images/output2.png)
+![GitHub Logo](./images/output3.png)
+![GitHub Logo](./images/output4.png)
+
+
+
+
+
+
 
 
 ## Result:
